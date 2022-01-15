@@ -1,5 +1,5 @@
 ## Bank Api project 
-created using node.js and express
+Created using node.js and express
 
 ### how it works 
 __________________
@@ -16,5 +16,5 @@ __________________
 
 #### To transfer money (got to http://localhost:8000/bankapi/transfer/:senderId/:receiverId/:amount)
 
-####To update credit (got to http://localhost:8000/bankapi/updatecredit/:id/:amount)
+#### To update credit (got to http://localhost:8000/bankapi/updatecredit/:id/:amount)
 
