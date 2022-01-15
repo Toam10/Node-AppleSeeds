@@ -1,7 +1,7 @@
 ## Bank Api project 
 Created using node.js and express
 
-### how it works 
+### How it works 
 __________________
 
 #### To add users (got to http://localhost:8000/bankapi) in the body section add: 
