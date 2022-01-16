@@ -79,4 +79,7 @@ userRouter.post(
     }
 );
 
+//long paths please use the router / app .use() to define the route before that file functionality
+// move the req ,res function to the controllers that not make the code shorter just complex unreadable and longer
+
 module.exports = userRouter;
